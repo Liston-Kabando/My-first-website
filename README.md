@@ -61,8 +61,8 @@ You can upload it to platforms like GitHub Pages, Netlify, or Vercel for free
 
 🧠 What You’ll Learn From This
 Structuring a web page using semantic HTML
-
 Writing clean and readable HTML code
+
 
 Building your personal brand with a web profile
 
