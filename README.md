@@ -29,7 +29,6 @@ Phone number field (tel input)
 Submit button
 
 🛠 How the Code is Structured
-
 Section	Description
 <!DOCTYPE HTML>	Declares the HTML version
 <head>	Contains the page title and meta info for responsiveness
